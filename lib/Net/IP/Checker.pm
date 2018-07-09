@@ -90,3 +90,5 @@ sub ip_is_ipv6 {
     my $ip = shift;
     return $ip =~ /^$IPv6_re$/ ? 1 : 0
 }
+
+=back

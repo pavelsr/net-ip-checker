@@ -4,7 +4,7 @@ Net::IP::Checker - IPv4/IPv6 addresses validator
 
 # VERSION
 
-version 0.01
+version 0.02
 
 # SYNOPSIS
 
@@ -66,11 +66,3 @@ This software is copyright (c) 2018 by Pavel Serikov.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
-
-# POD ERRORS
-
-Hey! **The above document had some coding errors, which are explained below:**
-
-- Around line 65:
-
-    You forgot a '=back' before '=head1'
