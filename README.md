@@ -1,6 +1,6 @@
 # NAME
 
-Net::IP::Checker - Fork of Net::IP::Minimal that validate IPv4 and IPv6 addresses correctly
+Net::IP::Checker - IPv4/IPv6 addresses validator
 
 # VERSION
 
@@ -20,7 +20,7 @@ version 0.01
 
 # DESCRIPTION
 
-This module only provides the minimal number of functions that I use in my modules.
+Fork of Net::IP::Minimal that validate IPv4 and IPv6 addresses correctly
 
 # NAME
 
