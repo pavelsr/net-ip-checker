@@ -42,7 +42,7 @@ our %EXPORT_TAGS = ( 'ALL' => [ @EXPORT_OK ] );
 =head1 FUNCTIONS
 
 The same as L<Net::IP> these functions are not exported by default. You may import them explicitly
-or use C<:PROC> to import them all.
+or use C<:ALL> to import them all.
 
 =over
 
